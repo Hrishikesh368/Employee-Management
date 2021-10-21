@@ -1,0 +1,7 @@
+
+FOR ADMIN'S LOGIN
+localhost/Employee/admin/index.php
+
+  username = admin
+  password = password
+
